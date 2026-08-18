@@ -18,7 +18,6 @@
 
 - AI Engineer and Data Scientist, three years across data analytics, BI, and now AI engineering
 - Every project ships with a verified result, not a claimed one — several document honest negative findings too
-- EU Blue Card holder — no sponsorship needed to work in Germany
 - Currently working toward the **Google Cloud Professional ML Engineer** certification
 
 ---
